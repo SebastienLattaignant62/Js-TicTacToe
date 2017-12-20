@@ -1,0 +1,31 @@
+body img   {
+  background-image: url("../image/Worlds.jpg");
+  background-position: center;
+  height: 1200px;
+  width: 1400px;
+
+}
+.une{
+  height: 400px;
+  width: 300px;
+  position: relative;
+  left: 400px;
+  top: -700px;
+  background-color: white;
+}
+
+h1{
+  text-align: center;
+}
+
+
+
+
+
+
+
+td {
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+}
